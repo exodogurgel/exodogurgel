@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Êxodo Gurgel</h1>
 <img align="right" alt="exodo-pic" height="200" style="border-radius:50px;" src="https://pbs.twimg.com/media/FK2MJwSWQAgSC0E?format=jpg&name=medium">
-<br>
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exodogurgel&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 I'm in career transition
@@ -13,8 +13,8 @@
 </div>
 <div align="left">
   <a href="https://github.com/exodogugel">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=exodogurgel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exodogurgel&layout=compact&langs_count=7&theme=dark"/>
+  <img width="410em" src="https://github-readme-stats.vercel.app/api?username=exodogurgel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exodogurgel&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 ##  
