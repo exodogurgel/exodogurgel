@@ -1,5 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Êxodo Gurgel</h1>
-<img align="right" alt="exodo-pic" height="200" style="border-radius:50px;" src="https://pbs.twimg.com/media/FK2MJwSWQAgSC0E?format=jpg&name=medium">
+<img align="right" alt="exodo-pic" height="200" style="border-radius:50px;" src="./images/b11993be-e073-4a30-adae-2fee655ccdd5.png">
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exodogurgel&color=yellow" alt="Profile views" /> </p>
 
