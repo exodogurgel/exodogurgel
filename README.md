@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exodogurgel&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 I'm a Web Developer. And I'm studyng web development at [Rocketseat](https://rocketseat.com.br/).
-- 🌱 Currently stack:  `HTML`, `CSS`, `Javascript`
+- 🌱 Currently stack:  `HTML`, `CSS`, `Javascript`, `ReactJS`, `NodeJS`, `SQL`
 - 📫 How to reach me: exodowellis@gmail.com
 
 ##
@@ -28,6 +28,13 @@
   <img align="left" alt="exodo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="exodo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="exodo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="left" alt="exodo-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
+  <img align="left" alt="exodo-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  
+  <img align="left" alt="exodo-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+           
   <img align="left" alt="exodo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="left" alt="exodo-Csharp" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFSIO_dsJJiOX3Sntwxpw6lUIJKI0ueBlRpcQ3q57xVOw4-bCAQ2eX0v_5v2sf5CIiNA&usqp=CAU">
      <div align="right">
